@@ -1,6 +1,6 @@
 {
   "name": "@aacassandra/vanilla-cookie",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Serves to get cookies, set cookies & delete cookies with expiration time",
   "repository": {
     "type": "git",
