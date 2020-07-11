@@ -1,0 +1,29 @@
+{
+  "name": "@aacassandra/vanilla-cookie",
+  "version": "1.0.1",
+  "description": "Serves to get cookies, set cookies & delete cookies with expiration time",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aacassandra/vanilla-cookie.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "vanilla-cookie",
+    "get-cookie",
+    "set-cookie-",
+    "delete-cookie"
+  ],
+  "author": {
+    "name": "Alauddin Afif Cassandra",
+    "email": "alauddinafifcassandra@programmer.net",
+    "url": "https://aacassandra-github.web.app/home"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aacassandra/vanilla-cookie/issues"
+  },
+  "homepage": "https://github.com/aacassandra/vanilla-cookie#readme"
+}
